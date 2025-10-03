@@ -7,6 +7,6 @@ I’m Khush Lalchandani, a Computer Science student at Stanford University with 
 - **Projects**: Developed a production-grade web image editor (Next.js, Cloudinary, Stripe), a Route Safety Assistant (Python, scikit-learn), and a C++ Complex Number Library.  
 - **Interests**: Scalable systems, applied AI, and bridging theory with practical applications.  
 
-📄 [Resume](link-to-your-resume-file-or-Google-Drive)  
+📄 [Resume](https://github.com/khush-l/khush-l/resume.pdf) 
 🔗 [LinkedIn](https://www.linkedin.com/in/khush-lalchandani/)  
 
